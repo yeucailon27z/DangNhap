@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\LÊ ĐỨC ANH-PH54751\PRL\bin\Debug\net6.0-windows\PRL.exe
+C:\Users\Admin\source\repos\LÊ ĐỨC ANH-PH54751\PRL\bin\Debug\net6.0-windows\PRL.deps.json
+C:\Users\Admin\source\repos\LÊ ĐỨC ANH-PH54751\PRL\bin\Debug\net6.0-windows\PRL.runtimeconfig.json
+C:\Users\Admin\source\repos\LÊ ĐỨC ANH-PH54751\PRL\bin\Debug\net6.0-windows\PRL.dll
+C:\Users\Admin\source\repos\LÊ ĐỨC ANH-PH54751\PRL\bin\Debug\net6.0-windows\PRL.pdb
+C:\Users\Admin\source\repos\LÊ ĐỨC ANH-PH54751\PRL\obj\Debug\net6.0-windows\PRL.Form1.resources
+C:\Users\Admin\source\repos\LÊ ĐỨC ANH-PH54751\PRL\obj\Debug\net6.0-windows\PRL.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\LÊ ĐỨC ANH-PH54751\PRL\obj\Debug\net6.0-windows\PRL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\LÊ ĐỨC ANH-PH54751\PRL\obj\Debug\net6.0-windows\PRL.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\LÊ ĐỨC ANH-PH54751\PRL\obj\Debug\net6.0-windows\PRL.AssemblyInfo.cs
+C:\Users\Admin\source\repos\LÊ ĐỨC ANH-PH54751\PRL\obj\Debug\net6.0-windows\PRL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\LÊ ĐỨC ANH-PH54751\PRL\obj\Debug\net6.0-windows\PRL.dll
+C:\Users\Admin\source\repos\LÊ ĐỨC ANH-PH54751\PRL\obj\Debug\net6.0-windows\refint\PRL.dll
+C:\Users\Admin\source\repos\LÊ ĐỨC ANH-PH54751\PRL\obj\Debug\net6.0-windows\PRL.pdb
+C:\Users\Admin\source\repos\LÊ ĐỨC ANH-PH54751\PRL\obj\Debug\net6.0-windows\PRL.genruntimeconfig.cache
+C:\Users\Admin\source\repos\LÊ ĐỨC ANH-PH54751\PRL\obj\Debug\net6.0-windows\ref\PRL.dll

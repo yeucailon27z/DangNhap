@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\SD19317\C_PRL\bin\Debug\net6.0-windows\C_PRL.exe
+C:\Users\Admin\source\repos\SD19317\C_PRL\bin\Debug\net6.0-windows\C_PRL.deps.json
+C:\Users\Admin\source\repos\SD19317\C_PRL\bin\Debug\net6.0-windows\C_PRL.runtimeconfig.json
+C:\Users\Admin\source\repos\SD19317\C_PRL\bin\Debug\net6.0-windows\C_PRL.dll
+C:\Users\Admin\source\repos\SD19317\C_PRL\bin\Debug\net6.0-windows\C_PRL.pdb
+C:\Users\Admin\source\repos\SD19317\C_PRL\obj\Debug\net6.0-windows\C_PRL.Forms.Frm_login.resources
+C:\Users\Admin\source\repos\SD19317\C_PRL\obj\Debug\net6.0-windows\C_PRL.Forms.Frm_main.resources
+C:\Users\Admin\source\repos\SD19317\C_PRL\obj\Debug\net6.0-windows\C_PRL.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\SD19317\C_PRL\obj\Debug\net6.0-windows\C_PRL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\SD19317\C_PRL\obj\Debug\net6.0-windows\C_PRL.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SD19317\C_PRL\obj\Debug\net6.0-windows\C_PRL.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SD19317\C_PRL\obj\Debug\net6.0-windows\C_PRL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SD19317\C_PRL\obj\Debug\net6.0-windows\C_PRL.dll
+C:\Users\Admin\source\repos\SD19317\C_PRL\obj\Debug\net6.0-windows\refint\C_PRL.dll
+C:\Users\Admin\source\repos\SD19317\C_PRL\obj\Debug\net6.0-windows\C_PRL.pdb
+C:\Users\Admin\source\repos\SD19317\C_PRL\obj\Debug\net6.0-windows\C_PRL.genruntimeconfig.cache
+C:\Users\Admin\source\repos\SD19317\C_PRL\obj\Debug\net6.0-windows\ref\C_PRL.dll

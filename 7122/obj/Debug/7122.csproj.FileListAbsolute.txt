@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\7122\bin\Debug\7122.exe.config
+C:\Users\Admin\source\repos\7122\bin\Debug\7122.exe
+C:\Users\Admin\source\repos\7122\bin\Debug\7122.pdb
+C:\Users\Admin\source\repos\7122\obj\Debug\7122.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\7122\obj\Debug\7122.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\7122\obj\Debug\7122.exe
+C:\Users\Admin\source\repos\7122\obj\Debug\7122.pdb

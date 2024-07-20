@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\c#711\bin\Debug\c#711.exe.config
+C:\Users\Admin\source\repos\c#711\bin\Debug\c#711.exe
+C:\Users\Admin\source\repos\c#711\bin\Debug\c#711.pdb
+C:\Users\Admin\source\repos\c#711\obj\Debug\c#711.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\c#711\obj\Debug\c#711.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\c#711\obj\Debug\c#711.exe
+C:\Users\Admin\source\repos\c#711\obj\Debug\c#711.pdb

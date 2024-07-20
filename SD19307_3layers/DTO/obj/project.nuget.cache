@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "KPz2l43fuWVXsGyY9jCfZNqUpddtu4yeyet0BrMy85KWLb/iAcFCw2oo0eVPczMLrGZuy6u9yv0jTI/KATsHMA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\SD19307_3layers\\DTO\\DTO.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "Project GUI is not compatible with net6.0 (.NETCoreApp,Version=v6.0). Project GUI supports: net6.0-windows7.0 (.NETCoreApp,Version=v6.0)",
+      "libraryId": "GUI",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

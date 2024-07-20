@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\7121\bin\Debug\7121.exe.config
+C:\Users\Admin\source\repos\7121\bin\Debug\7121.exe
+C:\Users\Admin\source\repos\7121\bin\Debug\7121.pdb
+C:\Users\Admin\source\repos\7121\obj\Debug\7121.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\7121\obj\Debug\7121.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\7121\obj\Debug\7121.exe
+C:\Users\Admin\source\repos\7121\obj\Debug\7121.pdb

@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\ASM2\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\Users\Admin\source\repos\ASM2\DTO\bin\Debug\net6.0\DTO.runtimeconfig.json
+C:\Users\Admin\source\repos\ASM2\DTO\bin\Debug\net6.0\DTO.dll
+C:\Users\Admin\source\repos\ASM2\DTO\bin\Debug\net6.0\DTO.pdb
+C:\Users\Admin\source\repos\ASM2\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ASM2\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ASM2\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ASM2\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ASM2\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ASM2\DTO\obj\Debug\net6.0\DTO.dll
+C:\Users\Admin\source\repos\ASM2\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\Users\Admin\source\repos\ASM2\DTO\obj\Debug\net6.0\DTO.pdb
+C:\Users\Admin\source\repos\ASM2\DTO\obj\Debug\net6.0\DTO.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ASM2\DTO\obj\Debug\net6.0\ref\DTO.dll

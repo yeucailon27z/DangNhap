@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\712\obj\Debug\712.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\712\obj\Debug\712.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\712\bin\Debug\712.exe.config
+C:\Users\Admin\source\repos\712\bin\Debug\712.exe
+C:\Users\Admin\source\repos\712\bin\Debug\712.pdb
+C:\Users\Admin\source\repos\712\obj\Debug\712.exe
+C:\Users\Admin\source\repos\712\obj\Debug\712.pdb

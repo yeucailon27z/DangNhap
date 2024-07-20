@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\WinFormsApp2\GUI\bin\Debug\net6.0\GUI.deps.json
+C:\Users\Admin\source\repos\WinFormsApp2\GUI\bin\Debug\net6.0\GUI.runtimeconfig.json
+C:\Users\Admin\source\repos\WinFormsApp2\GUI\bin\Debug\net6.0\GUI.dll
+C:\Users\Admin\source\repos\WinFormsApp2\GUI\bin\Debug\net6.0\GUI.pdb
+C:\Users\Admin\source\repos\WinFormsApp2\GUI\obj\Debug\net6.0\GUI.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\WinFormsApp2\GUI\obj\Debug\net6.0\GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\WinFormsApp2\GUI\obj\Debug\net6.0\GUI.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\WinFormsApp2\GUI\obj\Debug\net6.0\GUI.AssemblyInfo.cs
+C:\Users\Admin\source\repos\WinFormsApp2\GUI\obj\Debug\net6.0\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\WinFormsApp2\GUI\obj\Debug\net6.0\GUI.dll
+C:\Users\Admin\source\repos\WinFormsApp2\GUI\obj\Debug\net6.0\refint\GUI.dll
+C:\Users\Admin\source\repos\WinFormsApp2\GUI\obj\Debug\net6.0\GUI.pdb
+C:\Users\Admin\source\repos\WinFormsApp2\GUI\obj\Debug\net6.0\GUI.genruntimeconfig.cache
+C:\Users\Admin\source\repos\WinFormsApp2\GUI\obj\Debug\net6.0\ref\GUI.dll

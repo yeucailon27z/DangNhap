@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Tuhocc#\obj\Debug\Tuhocc#.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Tuhocc#\obj\Debug\Tuhocc#.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Tuhocc#\bin\Debug\Tuhocc#.exe.config
+C:\Users\Admin\source\repos\Tuhocc#\bin\Debug\Tuhocc#.exe
+C:\Users\Admin\source\repos\Tuhocc#\bin\Debug\Tuhocc#.pdb
+C:\Users\Admin\source\repos\Tuhocc#\obj\Debug\Tuhocc#.exe
+C:\Users\Admin\source\repos\Tuhocc#\obj\Debug\Tuhocc#.pdb
